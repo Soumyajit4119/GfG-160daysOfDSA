@@ -61,12 +61,13 @@ GfG-160daysOfDSA/
 │   │   └── solution.py
 │   └── ...
 │
-├── Strings/
-│   ├── 14/20. problem_name/
-│   │   ├── problem.md
-│   │   └── solution.py
-│   └── ...
-│
+└── Strings/
+    ├── 14/20. problem_name/
+    │   ├── problem.md
+    │   └── solution.py
+    └── ...
+
+├── LICENSE
 ├── .gitignore
 └── README.md
 
@@ -81,16 +82,7 @@ Each day’s folder will contain the problem in Markdown format (`problem.md`) a
 
 - **Programming Language:** Python  
 - **Problem Source:** [GeeksforGeeks 160 Days of DSA](https://practice.geeksforgeeks.org/courses/160-days-of-dsa-workshop)
-- **Tools:** GitHub, Markdown, Python, GeeksforGeeks
-
-## 📝 Problem Format
-Each problem is presented with the following structure inside `problem.md`:
-
-1. **Title**: The problem's title, which is a clickable link to the GeeksforGeeks problem page.
-2. **Difficulty**: A tag indicating the difficulty of the problem (Easy, Medium, or Hard).
-3. **Problem Statement**: The full description of the problem.
-4. **Examples**: One or more examples with input, output, and explanation.
-5. **Constraints**: A list of constraints for the problem.
+- **Tools:** Python, Data Structures, Algorithms
 
 ## 💻 Solution Format
 
@@ -105,6 +97,6 @@ While this repository is primarily for my personal practice, feel free to fork i
 
 ## 📬 Contact
 
-For any questions or discussions, feel free to connect via GitHub Issues or [start a discussion](https://github.com/yourusername/GfG-160daysOfDSA/discussions) (if enabled).
+For any questions or discussions, feel free to connect via GitHub Issues or [start a discussion](https://github.com/soumyajiitdas/GfG-160daysOfDSA/discussions).
 
 ---
