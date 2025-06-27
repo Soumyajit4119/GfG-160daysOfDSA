@@ -1,5 +1,12 @@
 # 📑 GfG 160 Days of DSA Challenge
 
+<p>
+  <img src="https://img.shields.io/badge/Status-Active-green" />
+  <img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Topic-DSA-F05032?style=flat"/>
+  <img src="https://img.shields.io/badge/DSA-GeekforGeeks-blue.svg" />
+</p>
+
 Welcome to the **GfG-160daysOfDSA** repository!  
 This repository contains my daily solutions and notes for the **[GeeksforGeeks 160 Days of Problem Solving Challenge](https://practice.geeksforgeeks.org/courses/160-days-of-dsa-workshop)**. The challenge covers core Data Structures and Algorithms (DSA) with a focus on solving one problem every day.
 
